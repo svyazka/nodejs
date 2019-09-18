@@ -1,0 +1,19 @@
+#see http://help.github.com/ignore-files/ for more ignoring files
+
+#compiled_output
+/dist
+/tmp
+/out-tsc
+
+#dependencies
+/node-modules
+
+#VSCode
+.vscode/*
+.history/*
+
+#git
+.git/*
+
+#system_files
+.DS_Store
